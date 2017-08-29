@@ -1,0 +1,31 @@
+{
+    "extends": "tslint:recommended",
+    "rules": {
+        "object-literal-sort-keys": false,
+        "trailing-comma": [
+            false
+        ],
+        "indent": [
+            true, "spaces", 4
+        ],
+        "interface-name": [
+            false
+        ],
+        "ordered-imports": [
+            false
+        ],
+        "no-var-requires": false,
+        "member-ordering": [
+            false
+        ],
+        "quotemark": [
+            true, "single", "jsx-double"
+        ],
+        "max-line-length": [
+            false
+        ],
+        "max-classes-per-file": [
+            false
+        ]
+    }
+}
